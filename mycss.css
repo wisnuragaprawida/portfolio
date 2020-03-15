@@ -1,0 +1,40 @@
+section{
+	min-height: 420px;
+}
+.dark {
+	background-color: #242323;
+	color: #FFFFFF;
+}
+.tulisan{
+	color: black;
+}
+.gmbrprofil{
+	width:  150px;
+	height: 150px;
+}
+.tulisanprofil{
+	font-size: 40px;
+}
+.tulisanprofil1{
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+/*dekstop*/
+@media (min-width: 992px) {
+
+.gmbrprofil{
+	width: 250px;
+	height:250px;
+}
+.tulisanprofil{
+
+}
+}
