@@ -37,14 +37,14 @@ btn.addEventListener('click', function() {
 
 	})
 
-btn.addEventListener('click', function() {
-	 for (let i = 0; i < all.length; i++) {
-	 	all[i].classList.toggle('dark');
-	 }
+// btn.addEventListener('click', function() {
+// 	 for (let i = 0; i < all.length; i++) {
+// 	 	all[i].classList.toggle('dark');
+// 	 }
 		
 	
-}
-)
+// }
+// )
 btn.addEventListener('click', function() {
 	 for (let i = 0; i < ali.length; i++) {
 	 	ali[i].classList.toggle('dark');
