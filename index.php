@@ -63,7 +63,7 @@ if(isset($_POST["kirim"])){
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container text-center ">
-    <img src="img/wisnu.jpg" class="rounded-circle img-thumbnail  gmbrprofil" >
+    <img src="img/gans.jpg" class="rounded-circle img-thumbnail  gmbrprofil" >
     <h1 class="display-4 tulisanprofil">Wisnu Raga</h1>
     <p class="lead tulisanprofil1" id="tmbl">Selamat Datang di MY PORTFOLIO.</p>
   </div>

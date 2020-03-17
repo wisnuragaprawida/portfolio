@@ -19,8 +19,16 @@ section{
 	font-size: 20px;
 }
 
-
-
+.about{
+	padding-top: 50px;
+}
+.portfolio{
+	padding-top: 50px;
+}
+.jumbotron{
+	background-image: url(thumbs/6.png);
+	background-size: cover;
+}
 
 
 
